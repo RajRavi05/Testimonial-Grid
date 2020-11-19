@@ -113,13 +113,13 @@ body {
 
 .card-3 .avatar-name .name {
   color: var(--grayish-blue);
-  font-weight: inherit;
+  font-weight: 500;
 }
 
 .card-3 .avatar-name .avatar-des {
   color: var(--grayish-blue);
   opacity: 50%;
-  font-weight: inherit;
+  font-weight: 500;
 }
 
 .card-3 .title {
