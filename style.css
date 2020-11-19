@@ -130,9 +130,9 @@ body {
 
 .card-3 .paragraph p {
   font-size: 1.1rem;
+  color: var(--grayish-blue);
   opacity: 75%;
   font-weight: 600;
-  color: var(--grayish-blue);
 }
 
 .card-4 {
