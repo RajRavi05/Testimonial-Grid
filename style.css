@@ -60,7 +60,7 @@ body {
 
 .card-design {
   position: relative;
-  padding: 1rem;
+  padding: 1.5rem;
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15), -5px -5px 5px rgba(0, 0, 0, 0.13);
   transition: all 0.5s ease;
